@@ -186,5 +186,6 @@ def main():
             print("✅ Scraper finished its run.")
 
 
+
 if __name__ == "__main__":
     main()
